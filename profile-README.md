@@ -58,4 +58,4 @@ run efficiently, close to where data is produced, and safely.
 ## Contact
 
 - Email: aad40@mail.aub.edu
-- LinkedIn: <!-- add your LinkedIn URL -->
+- LinkedIn: [Ali Daher](https://www.linkedin.com/in/ali-daher-58920a22a)
